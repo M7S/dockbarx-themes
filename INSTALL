@@ -1,1 +1,1 @@
-To install a theme, simply copy the .tar.gz file to ~/.dockbarx/themes/ (or to /usr/share/dockbarx/themes/ for system wide installation).
+To install a theme, simply copy the .tar.gz file to ~/.dockbarx/themes/ (or to /usr/share/dockbarx/themes/ for system wide installation). Window list styles should be copied from popup_styles/ to ~/.dockbarx/themes/popup_styles/ (or /usr/share/dockbarx/themes/popup_styles/) and dock themes from dock/ to ~/.dockbarx/themes/dock/ (or /usr/share/dockbarx/themes/dock/).
